@@ -6,20 +6,16 @@
 
 
 #include<iostream>
+#include<algorithm>
 using namespace std;
 
 int main()
 {
-	long long int a, b, answer;
+	unsigned long long int a, b, answer;
 
-	while (getchar() != EOF)
+	while (cin >> a >> b)
 	{
-		cin >> a >> b;
-		if (a > b)
-			answer = a - b;
-		else
-			answer = b - a;
-		cout << answer << endl;
+		cout << max(a, b) - min(a, b) << endl;
 	}
 
 	return 0;
