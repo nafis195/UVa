@@ -1,6 +1,6 @@
 // Bismillahir Rahmanir Rahim
 // Nafis Chowdhury
-// Codeforces - 11461 - Square Numbers
+// UVa - 11461 - Square Numbers
 // Problem Statement - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2456
 // Main.cpp
 
