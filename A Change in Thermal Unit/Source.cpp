@@ -1,6 +1,6 @@
 // Bismillahir Rahmanir Rahim
 // Nafis Chowdhury
-// Codeforces - 11984 - A Change in Thermal Unit
+// UVa - 11984 - A Change in Thermal Unit
 // Problem Statement - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=3135
 // Main.cpp
 
