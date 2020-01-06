@@ -1,6 +1,6 @@
 // Bismillahir Rahmanir Rahim
 // Nafis Chowdhury
-// Codeforces - 11332 - Summing Digits
+// UVa - 11332 - Summing Digits
 // Problem Statement - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2307
 // Main.cpp
 
