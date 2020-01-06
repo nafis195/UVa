@@ -1,6 +1,6 @@
 // Bismillahir Rahmanir Rahim
 // Nafis Chowdhury
-// Codeforces - 11777 - Automate the Grades
+// UVa - 11777 - Automate the Grades
 // Problem Statement - https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&category=24&page=show_problem&problem=2877
 // Main.cpp
 
