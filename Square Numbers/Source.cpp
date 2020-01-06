@@ -17,10 +17,12 @@ int main()
 	{
 		count = 0;
 
-		for (int i = a; i <= b; i++)
+		for (int i = 1; i <= b; i++)
 		{
-			if (i * i <= b)
+			if (i * i >= a && i * i <= b)
 				count = count + 1;
+			else if (i * i < a)
+				continue;
 			else if (i * i > b)
 				break;
 		}
